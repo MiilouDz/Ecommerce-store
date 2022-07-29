@@ -1,2 +1,5 @@
-# YT_Django_Project_Ecommerce_v1_Part1
+# Ecommerce Store Project 
+using : 
+ - Django
+ - HTML/CSS | Bootstrap
  
